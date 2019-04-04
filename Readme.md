@@ -3,7 +3,7 @@
 
 * [DashboardScripts.js](./CS/DashboardScripts.js) (VB: [DashboardScripts.js](./VB/DashboardScripts.js))
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to retrieve the last level item data and display it using different ASP.NET controls
 
